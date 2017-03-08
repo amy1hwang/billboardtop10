@@ -1,4 +1,4 @@
-# billboardtop10
+# Billboard Top 10
 ##by Amy Hwang | 11.17.2016
 
 # description of program
